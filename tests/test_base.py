@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from voltage_noise_prj.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "voltage_noise_prj"
